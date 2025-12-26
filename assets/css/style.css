@@ -40,3 +40,19 @@ header {
     font-size: 1.1rem;
     margin-bottom: 5px;
 }
+
+/* typing feedback */
+.sample-word {
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+.word-correct {
+    background-color: #e0f0ff;
+    color: #0d6efd;
+}
+
+.word-incorrect {
+    background-color: #ffe0e0;
+    color: #dc3545;
+}
